@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://gidmgcalculator.github.io/csb-vveqn5/static/css/main.03fadcc6.chunk.css",
+    "main.js": "https://gidmgcalculator.github.io/csb-vveqn5/static/js/main.3e0c0de4.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-vveqn5/static/js/main.3e0c0de4.chunk.js.map",
+    "runtime-main.js": "https://gidmgcalculator.github.io/csb-vveqn5/static/js/runtime-main.416a49a4.js",
+    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-vveqn5/static/js/runtime-main.416a49a4.js.map",
+    "static/js/2.91f4d711.chunk.js": "https://gidmgcalculator.github.io/csb-vveqn5/static/js/2.91f4d711.chunk.js",
+    "static/js/2.91f4d711.chunk.js.map": "https://gidmgcalculator.github.io/csb-vveqn5/static/js/2.91f4d711.chunk.js.map",
+    "index.html": "https://gidmgcalculator.github.io/csb-vveqn5/index.html",
+    "static/css/main.03fadcc6.chunk.css.map": "https://gidmgcalculator.github.io/csb-vveqn5/static/css/main.03fadcc6.chunk.css.map",
+    "static/js/2.91f4d711.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-vveqn5/static/js/2.91f4d711.chunk.js.LICENSE.txt",
+    "static/media/aqua_simulacra.4fab39c7.png": "https://gidmgcalculator.github.io/csb-vveqn5/static/media/aqua_simulacra.4fab39c7.png",
+    "static/media/fading_twilight.33df3f83.png": "https://gidmgcalculator.github.io/csb-vveqn5/static/media/fading_twilight.33df3f83.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.416a49a4.js",
+    "static/js/2.91f4d711.chunk.js",
+    "static/css/main.03fadcc6.chunk.css",
+    "static/js/main.3e0c0de4.chunk.js"
+  ]
+}
